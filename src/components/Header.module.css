@@ -1,0 +1,14 @@
+.header {
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #494844;
+    padding: 0 10%;
+  }
+  
+  .logo {
+    font-size: 2rem;
+    color: #f7f5ef;
+    font-weight: bold;
+  }

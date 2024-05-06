@@ -1,0 +1,23 @@
+.thefts {
+    list-style: none;
+    margin: 1rem auto;
+    padding: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .spinnercontainer{
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    height: 50vh; 
+  }
+  .noItems {
+    color: #494844;
+    display: flex;
+    justify-content: center;
+    margin: 5rem;
+    font-size: large;
+  }
